@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-#### Git Cabinet
+#### [Git Cabinet](https://gitcabinet.com/)
 
 > Git을 처음 시작하는 사람들을 위한 과제 해결형 Git simulator
-
-[Git Cabinet](https://gitcabinet.com/)
 
 <!--
 **autumnsky-tony/autumnsky-tony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
