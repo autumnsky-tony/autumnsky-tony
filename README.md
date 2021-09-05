@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### [Git Cabinet](https://gitcabinet.com/)
+#### <a href="https://gitcabinet.com/" target="_blank">Git Cabinet</a>
 
 > Git을 처음 시작하는 사람들을 위한 과제 해결형 Git simulator
 
